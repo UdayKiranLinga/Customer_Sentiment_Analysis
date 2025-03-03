@@ -4,13 +4,13 @@
 
 **Approach:**
 
-Use AWS Comprehend API to perform sentiment analysis on customer reviews.
+-Use AWS Comprehend API to perform sentiment analysis on customer reviews.
 
-Perform exploratory data analysis (EDA) to understand review patterns.
+-Perform exploratory data analysis (EDA) to understand review patterns.
 
-Visualize sentiment distribution using Matplotlib and Power BI.
+-Visualize sentiment distribution using Matplotlib and Power BI.
 
-Generate actionable insights on customer satisfaction.
+-Generate actionable insights on customer satisfaction.
 
 **Tools & Technologies:** AWS Comprehend, Python, Pandas, Matplotlib, Power BI
 
