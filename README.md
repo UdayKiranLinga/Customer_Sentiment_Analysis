@@ -1,12 +1,17 @@
 # Customer_Sentiment_Analysis
--Customer_Sentiment_Analysis/
-│
-├── README.md
-├── data/
-│   └── customer_reviews.csv
-├── notebooks/
-│   └── sentiment_analysis.ipynb
-├── src/
-│   └── sentiment_analysis.py
-└── visuals/
-    └── sentiment_dashboard.png
+
+**Objective**: Analyze customer reviews to extract sentiment (positive, negative, neutral).
+
+**Approach:**
+
+Use AWS Comprehend API to perform sentiment analysis on customer reviews.
+
+Perform exploratory data analysis (EDA) to understand review patterns.
+
+Visualize sentiment distribution using Matplotlib and Power BI.
+
+Generate actionable insights on customer satisfaction.
+
+**Tools & Technologies:** AWS Comprehend, Python, Pandas, Matplotlib, Power BI
+
+**Outcome:** Interactive sentiment analysis dashboard and summary reports.
